@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2011
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BK_MeterLogger", "BK_MeterLogger\BK_MeterLogger.csproj", "{E1E174A3-F7CD-44AE-BD7B-76A2B2285DB1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1E174A3-F7CD-44AE-BD7B-76A2B2285DB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1E174A3-F7CD-44AE-BD7B-76A2B2285DB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1E174A3-F7CD-44AE-BD7B-76A2B2285DB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1E174A3-F7CD-44AE-BD7B-76A2B2285DB1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {273F0968-1691-4F18-8B95-50775DA173E5}
+	EndGlobalSection
+EndGlobal
